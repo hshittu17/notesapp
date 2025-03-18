@@ -12,4 +12,4 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists."
 
-After going to repo setings, creating a public SSH key by entering the command 'ssh-keygen -t ecdsa' it stll didn't work.
+After going to repo setings, creating a public SSH key by entering the command 'ssh-keygen -t ecdsa' it stll didn't work. Going to take a break.
