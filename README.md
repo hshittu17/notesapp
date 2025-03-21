@@ -13,3 +13,6 @@ Please make sure you have the correct access rights
 and the repository exists."
 
 After going to repo setings, creating a public SSH key by entering the command 'ssh-keygen -t ecdsa' it stll didn't work. Tried creating a public rsa ssh key instead, still didn't work. Going to take a break.
+
+3.20.2025
+getting "Bad configuration. 3 bad configuration options. fatal: Could not read from remote repository." error messages on my .ssh/config files 
