@@ -23,4 +23,4 @@ Host github.com
 added my ssh agent & key:
 ssh-add ~/.ssh/id_rsa
 
-now it says it rejected to push some refs. I'm happy to get new errors!
+now it says it rejected to push some refs. I'm happy to get new errors! and now my ssh key shows that it's in use in my github settings.
