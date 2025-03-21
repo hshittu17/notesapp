@@ -24,3 +24,11 @@ added my ssh agent & key:
 ssh-add ~/.ssh/id_rsa
 
 now it says it rejected to push some refs. I'm happy to get new errors! and now my ssh key shows that it's in use in my github settings.
+To github.com:hshittu17/notesapp
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:hshittu17/notesapp'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
